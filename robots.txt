@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://slopegamefree.github.io/sitemap.xml
